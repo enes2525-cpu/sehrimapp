@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "77008871329",
+    "project_id": "sehrimapp-9c9f6",
+    "storage_bucket": "sehrimapp-9c9f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77008871329:android:e81575ec8e1adb1f76b5e0",
+        "android_client_info": {
+          "package_name": "com.example.sehrimapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SoaDChV-hS7m8TMQp-B2H4r1gRDoGbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77008871329:android:08af52b744d6c01c76b5e0",
+        "android_client_info": {
+          "package_name": "com.sehrimapp.prod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SoaDChV-hS7m8TMQp-B2H4r1gRDoGbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
